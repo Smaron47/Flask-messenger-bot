@@ -4,7 +4,7 @@ from pymessenger import Bot
 #import json
 app = Flask(__name__)
 
-ACCESS_TOKEN = "EAASTt2bmmp4BADzUyyT4uD4qS7U954KmVrixE5pQrzr7Dp3Y2bcTppawLOEIISXY10n5Km71tPI9VehwWtke1ZCy6ZCtGoV2ohZAdLhMlwNe3K6nd1FaIPKwH5rPZAnD2gT2BbOgmyJJbO0ZCwaqP9zspuZBgkA2Ot1SslQMkDZBh4QNM92wjx4"
+ACCESS_TOKEN = "token"
 bot = Bot(ACCESS_TOKEN)
 
 VERIFICATION_TOKEN = "hello"
